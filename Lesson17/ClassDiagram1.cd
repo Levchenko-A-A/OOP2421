@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lesson17.User" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAEgAACAAAAAAEAAAAAQAAQAAAAACAQAAAAAAAAA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lesson17.UserAuthentification">
+    <Position X="1.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ECAAACAAAAIAAAAAAAACAAAAACAAAAAAAIAAAAAAACA=</HashCode>
+      <FileName>UserAuthentification.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lesson17.UserRegistration">
+    <Position X="4" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAACAAAAIAAAAAAAACEAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UserRegistration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lesson17.Program">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lesson17.AticalsHandler">
+    <Position X="6.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAQAgAAAAgABAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>AticalsHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lesson17.Atical">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAgAAAEAQAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Atical.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
